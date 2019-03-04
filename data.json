@@ -1,0 +1,16 @@
+{
+	"accounts": [
+		{
+			"user": "cheche",
+			"pass": "asd"
+		},
+		{
+			"user": "a",
+			"pass": "a"
+		},
+		{
+			"user": "x",
+			"pass": "x"
+		}
+	]
+}

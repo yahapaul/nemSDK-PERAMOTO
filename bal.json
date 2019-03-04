@@ -1,0 +1,28 @@
+{
+	"balance": [
+		{
+			"mosaicName": "xem",
+			"quantity": 656499800
+		},
+		{
+			"mosaicName": "mosaic",
+			"quantity": 1
+		},
+		{
+			"mosaicName": "dolyar",
+			"quantity": 50
+		},
+		{
+			"mosaicName": "mosaicname",
+			"quantity": 1
+		},
+		{
+			"mosaicName": "pera",
+			"quantity": 1
+		},
+		{
+			"mosaicName": "asd",
+			"quantity": 1
+		}
+	]
+}
